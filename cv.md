@@ -15,3 +15,37 @@ My goal is to acquire knowledge in frontend development for employment in the co
 + HTML\CSS
 + Git\GitHub
 + Markdown
+
+## Code Example
+
+```
+class Figure {
+  constructor(angles) {
+    this.angles = angles;
+  }
+  
+  getFigure() {
+    switch(this.angles) {
+       case 0:
+         return 'circle';
+       case 4:
+         return 'square';
+       case 5:
+         return 'pentagon'
+       default:
+         return 'to many or to few angles'
+    }
+  }
+}
+
+```
+
+## Education
+- Gomel State Medical University
+  - therapist
+  - ophthalmologist
+
+## Languages
+- Belarusian
+- Rusian
+- English ( A1 courses EnglishPapa )
