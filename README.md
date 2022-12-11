@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://nebula93.github.io/rsschool-cv/cv
+https://nebula93.github.io/rsschool-cv/
